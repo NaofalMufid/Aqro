@@ -3,10 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Sistema</title>
-    <!-- Barcode generator javascript library -->
-    <script type="text/javascript" src="js/barcode.js"></script>
-    <!-- PDF generator javascript library -->
-    <script type="text/javascript" src="js/jspdf.min.js"></script>
     <!-- Bootstrap CSS File  -->
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"/>
     <style type="text/css">
@@ -262,6 +258,12 @@
 <!-- Jquery JS file -->
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 
+<!-- Barcode generator javascript library -->
+<script type="text/javascript" src="js/barcode.js"></script>
+
+<!-- PDF generator javascript library -->
+<script type="text/javascript" src="js/jspdf.min.js"></script>
+    
 <!-- Bootstrap JS file -->
 <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 
